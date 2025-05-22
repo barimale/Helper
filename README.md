@@ -1,5 +1,7 @@
 # Helper
 
+https://stackoverflow.com/questions/21135770/how-to-create-nhibernate-hasmanytomany-relation
+
 https://youtu.be/OhbBYhUKX5k?si=6bFf4_gANaeEAWkI
 
 https://learn.microsoft.com/en-us/ef/core/managing-schemas/scaffolding/?tabs=dotnet-core-cli#the-scaffolded-code
