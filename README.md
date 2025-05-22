@@ -1,5 +1,7 @@
 # Helper
 
+https://www.pluralsight.com/courses/nhibernate?utm_source=google&utm_medium=paid-search&utm_campaign=&utm_content=free-trial&gad_source=1&gad_campaignid=22500974292&gbraid=0AAAAADmVFQYESsgmX3J6yURYRuupl1aWe&gclid=Cj0KCQjwlrvBBhDnARIsAHEQgOSrWhZSdw1syQpXMqWT_LYtcRVmjtJYll6o0jaZd8fAVTa01OzDOuQaArd7EALw_wcB
+
 https://stackoverflow.com/questions/21135770/how-to-create-nhibernate-hasmanytomany-relation
 
 https://youtu.be/OhbBYhUKX5k?si=6bFf4_gANaeEAWkI
