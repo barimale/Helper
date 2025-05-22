@@ -1,5 +1,7 @@
 # Helper
 
+https://youtu.be/OhbBYhUKX5k?si=6bFf4_gANaeEAWkI
+
 https://learn.microsoft.com/en-us/ef/core/managing-schemas/scaffolding/?tabs=dotnet-core-cli#the-scaffolded-code
 
 https://www.oracle.com/database/sqldeveloper/technologies/download/
