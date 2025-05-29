@@ -1,4 +1,5 @@
 # helper
+https://youtu.be/CFx5F_rkwfQ?si=pG2R-d-XkNdBXO1m
 
 https://dev.to/cwetanow/wiring-up-ninject-with-aspnet-core-20-3hp
 
