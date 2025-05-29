@@ -1,4 +1,6 @@
 # helper
+https://jasonwatmore.com/post/2015/01/28/unit-of-work-repository-pattern-in-mvc5-and-web-api-2-with-fluent-nhibernate-and-ninject
+
 https://github.com/cornflourblue/mvc5-unit-of-work-example
 
 https://stackoverflow.com/questions/562926/fluent-nhibernate-how-to-configure-for-oracle
