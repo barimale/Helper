@@ -1,4 +1,7 @@
 # helper
+
+https://blog.frankdecaire.com/2014/09/01/using-oracle-with-fluent-nhibernate/
+
 https://www.oracle.com/enterprise-manager/downloads/
 
 https://github.com/oracle/dotnet-db-samples/tree/master/samples/ef-core/get-started
