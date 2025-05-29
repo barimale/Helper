@@ -1,4 +1,6 @@
 # helper
+https://www.oracle.com/enterprise-manager/downloads/
+
 https://github.com/oracle/dotnet-db-samples/tree/master/samples/ef-core/get-started
 
 https://youtu.be/CFx5F_rkwfQ?si=pG2R-d-XkNdBXO1m
