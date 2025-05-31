@@ -1,32 +1,7 @@
 # helper
-https://jasonwatmore.com/post/2015/01/28/unit-of-work-repository-pattern-in-mvc5-and-web-api-2-with-fluent-nhibernate-and-ninject
-
-https://github.com/cornflourblue/mvc5-unit-of-work-example
-
-https://stackoverflow.com/questions/562926/fluent-nhibernate-how-to-configure-for-oracle
-
-https://blog.frankdecaire.com/2014/09/01/using-oracle-with-fluent-nhibernate/
-
-https://www.oracle.com/enterprise-manager/downloads/
-
-https://github.com/oracle/dotnet-db-samples/tree/master/samples/ef-core/get-started
-
-https://youtu.be/CFx5F_rkwfQ?si=pG2R-d-XkNdBXO1m
 
 https://dev.to/cwetanow/wiring-up-ninject-with-aspnet-core-20-3hp
 
-https://www.pluralsight.com/courses/nhibernate?utm_source=google&utm_medium=paid-search&utm_campaign=&utm_content=free-trial&gad_source=1&gad_campaignid=22500974292&gbraid=0AAAAADmVFQYESsgmX3J6yURYRuupl1aWe&gclid=Cj0KCQjwlrvBBhDnARIsAHEQgOSrWhZSdw1syQpXMqWT_LYtcRVmjtJYll6o0jaZd8fAVTa01OzDOuQaArd7EALw_wcB
+https://youtu.be/OhbBYhUKX5k?si=6bFf4_gANaeEAWkI (mappings)
 
-https://stackoverflow.com/questions/21135770/how-to-create-nhibernate-hasmanytomany-relation
-
-https://youtu.be/OhbBYhUKX5k?si=6bFf4_gANaeEAWkI
-
-https://learn.microsoft.com/en-us/ef/core/managing-schemas/scaffolding/?tabs=dotnet-core-cli#the-scaffolded-code
-
-https://www.oracle.com/database/sqldeveloper/technologies/download/
-
-https://www.tutorialspoint.com/nhibernate/nhibernate_relationships.htm
-
-https://learn.microsoft.com/en-us/ef/core/modeling/relationships/many-to-many#basic-many-to-many
-
-https://youtu.be/56dSXI2PbCQ?si=I0WRrA85EDbinYmf
+https://youtu.be/56dSXI2PbCQ?si=I0WRrA85EDbinYmf (docker)
