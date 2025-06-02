@@ -1,4 +1,7 @@
 # helper
+
+https://github.com/ritterim/fluentmigrator-generator
+
 https://plawgo.pl/2018/10/09/migracja-schematu-bazy-danych-z-fluent-migrator/
 
 https://youtu.be/OhbBYhUKX5k?si=6bFf4_gANaeEAWkI (mappings)
