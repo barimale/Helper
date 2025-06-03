@@ -1,4 +1,5 @@
 # helper
+https://stackoverflow.com/questions/53282474/how-to-test-fluent-migrations-with-an-in-process-migration-runner-and-a-in-memor
 
 https://github.com/ritterim/fluentmigrator-generator
 
