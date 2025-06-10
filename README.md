@@ -1,5 +1,5 @@
 # helper
-Install-Package NHibernate.Glimpse
+https://copilot.microsoft.com/
 
 https://github.com/gliljas/NH4CookbookHelpers
 
