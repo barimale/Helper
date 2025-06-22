@@ -1,5 +1,23 @@
 # Helper
 
+    public static IMappingExpression IgnoreAllNonExisting(this IMappingExpression expression)
+    {
+        foreach (var property in expression.TypeMap.GetUnmappedPropertyNames())
+        {
+            expression.ForMember(property, opt => opt.Ignore());
+        }
+        return expression;
+    }
+
+    public static IMappingExpression IgnoreAllNonExistingSource(this IMappingExpression expression)
+    {
+        foreach (var property in expression.TypeMap.GetUnmappedPropertyNames())
+        {
+            expression.ForSourceMember(property, opt => opt.Ignore());
+        }
+        return expression;
+    }
+
 https://blog.nimblepros.com/blogs/automapper-madness-part-2/
 
 https://docs.automapper.org/en/stable/Nested-mappings.html
