@@ -1,5 +1,5 @@
 # Helper
-
+CreateMap(typeof(TempMapViewModel), typeof(MapViewModel)) .IgnoreAllNonExisting() .IgnoreAllNonExistingSource()
 public static IMappingExpression<TSource, TDestination> IgnoreAllNonExisting<TSource, TDestination>(this IMappingExpression<TSource, TDestination> expression)
 
 {
