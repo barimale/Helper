@@ -1,0 +1,6 @@
+R:\Helper\Dummy.Service\Dummy.Service\obj\Debug\net8.0\Dummy.Service.csproj.AssemblyReference.cache
+R:\Helper\Dummy.Service\Dummy.Service\obj\Debug\net8.0\Dummy.Service.GeneratedMSBuildEditorConfig.editorconfig
+R:\Helper\Dummy.Service\Dummy.Service\obj\Debug\net8.0\Dummy.Service.AssemblyInfoInputs.cache
+R:\Helper\Dummy.Service\Dummy.Service\obj\Debug\net8.0\Dummy.Service.AssemblyInfo.cs
+R:\Helper\Dummy.Service\Dummy.Service\obj\Debug\net8.0\Dummy.Service.csproj.CoreCompileInputs.cache
+R:\Helper\Dummy.Service\Dummy.Service\obj\Debug\net8.0\Dummy.Service.sourcelink.json
